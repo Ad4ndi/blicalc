@@ -17,7 +17,7 @@ cd blicalc
 ## Why blicalc?
 
 - Easily extendable
--Standard libraries only
+- Standard libraries only
 - Complex numbers support
 - Logic safety
 - Type safety
